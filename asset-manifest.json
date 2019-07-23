@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb36bedc.chunk.css",
+    "main.js": "/static/js/main.720d9770.chunk.js",
+    "main.js.map": "/static/js/main.720d9770.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.b0f64131.chunk.css": "/static/css/2.b0f64131.chunk.css",
+    "static/js/2.a3d1097f.chunk.js": "/static/js/2.a3d1097f.chunk.js",
+    "static/js/2.a3d1097f.chunk.js.map": "/static/js/2.a3d1097f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.715dcc3f6393f4f56fc92fedf98cbb3c.js": "/precache-manifest.715dcc3f6393f4f56fc92fedf98cbb3c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b0f64131.chunk.css.map": "/static/css/2.b0f64131.chunk.css.map",
+    "static/css/main.bb36bedc.chunk.css.map": "/static/css/main.bb36bedc.chunk.css.map",
+    "static/media/espnlogo.jpg": "/static/media/espnlogo.132500c8.jpg",
+    "static/media/logosmall.png": "/static/media/logosmall.370e88cc.png"
+  }
+}
